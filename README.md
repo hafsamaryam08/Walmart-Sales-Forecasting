@@ -1,4 +1,4 @@
-## Walmart Store Sales Forecasting (Elevvo Internship - Task 7)
+# Walmart Store Sales Forecasting (Elevvo Internship - Task 7)
 
 ## 📌 Project Overview
 This project predicts weekly sales for Walmart stores using machine learning.  
